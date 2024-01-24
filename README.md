@@ -1,4 +1,4 @@
 # Stack Automaton
 >
 
-![demo](Documentation/demo.png)
+![demo](documentation/demo.png)
